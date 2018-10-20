@@ -1,0 +1,8 @@
+title: Enhancements in CTLK webapp
+description: A summary of my work for Classical Language Toolkit (CLTK) as a GSoC student.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-hacker
+
+gems:
+  - jekyll-mentions
